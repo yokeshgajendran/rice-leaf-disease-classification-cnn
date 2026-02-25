@@ -20,6 +20,7 @@ Source: Kaggle – Rice Leaf Disease Image Dataset
 [View Dateset](https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image) 
 
 -Total Classes: 4 
+
 -Training Images: 4150  
 -Validation Images: 889  
 -Test Images: 893  
