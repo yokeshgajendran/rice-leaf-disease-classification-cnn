@@ -73,14 +73,16 @@ Train/Validation/Test Split:
 
 Test Accuracy: 93.75%
 
-![Model Accuracy](images/model_summary & accuracy.png)
+### Model Summary & Accuracy
+![Model Accuracy](images/model_summary&accuracy.png)
 
 Classification metrics include:
 - Precision
 - Recall
 - F1-score
 - Macro & Weighted averages
-
+- 
+### Classification Report
 ![Evaluation](images/classification_report.png)
 
 The model demonstrates strong performance across all four classes, with Tungro achieving near-perfect classification.
