@@ -1,5 +1,9 @@
 # Rice Leaf Disease Classification using CNN
 
+## Introduction
+
+Rice is one of the most important staple crops worldwide. However, rice plants are highly vulnerable to various leaf diseases that can significantly reduce crop yield and quality.
+
 ## Project Overview
 
 This project develops a Custom Convolutional Neural Network (CNN) model to classify rice leaf diseases using deep learning.
@@ -69,11 +73,15 @@ Train/Validation/Test Split:
 
 Test Accuracy: 93.75%
 
+![Model Accuracy](images/model_summary&accuracy.png)
+
 Classification metrics include:
 - Precision
 - Recall
 - F1-score
 - Macro & Weighted averages
+
+![Evaluation](images/classification_report.png)
 
 The model demonstrates strong performance across all four classes, with Tungro achieving near-perfect classification.
 
@@ -86,10 +94,23 @@ The model demonstrates strong performance across all four classes, with Tungro a
 - Prevents large-scale crop loss
 - Supports AI-driven smart agriculture solutions
 
-This model can be integrated into:
+Potential applications:
 - Mobile agricultural diagnostic apps
 - Drone-based crop monitoring systems
 - Farm advisory platforms
+
+---
+
+## Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Building and training custom CNN architectures  
+- Applying image preprocessing and data augmentation  
+- Handling multi-class classification problems  
+- Evaluating models using classification metrics  
+- Visualizing predictions and model performance  
+- Structuring an end-to-end deep learning workflow
 
 ---
 
@@ -100,5 +121,3 @@ This model can be integrated into:
 - NumPy
 - Matplotlib
 - Scikit-learn
-
----
