@@ -18,10 +18,11 @@ Early detection of rice diseases is critical to prevent crop loss and improve ag
 
 Source: Kaggle – Rice Leaf Disease Image Dataset  
 [View Dateset](https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image) 
-Total Classes: 4 
-Training Images: 4150  
-Validation Images: 889  
-Test Images: 893  
+
+-Total Classes: 4 
+-Training Images: 4150  
+-Validation Images: 889  
+-Test Images: 893  
 
 The dataset is structured using folder-based labeling, enabling automatic class encoding via TensorFlow's ImageDataGenerator.
 
