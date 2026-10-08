@@ -81,7 +81,7 @@ Classification metrics include:
 - Recall
 - F1-score
 - Macro & Weighted averages
-- 
+
 ### Classification Report
 ![Evaluation](images/classification_report.png)
 
